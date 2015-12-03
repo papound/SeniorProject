@@ -1,0 +1,112 @@
+﻿Build started 03-Dec-15 8:48:32 PM.
+     1>Project "C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\formapp\formapp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\x86\vc12\..\..\include /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Login.cpp MyForm.cpp Register.cpp Welcome.cpp
+         Login.cpp
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(505): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(509): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(514): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(515): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(569): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(582): warning C4018: '<' : signed/unsigned mismatch
+         MyForm.cpp
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(505): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(509): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(514): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(515): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(569): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(582): warning C4018: '<' : signed/unsigned mismatch
+         Register.cpp
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(505): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(509): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(514): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(515): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(569): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(582): warning C4018: '<' : signed/unsigned mismatch
+         Welcome.cpp
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(505): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(509): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(514): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(515): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(569): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\chanawatn pound\documents\visual studio 2013\projects\formapp.v5\projectv5\formapp\formapp\MyForm.h(582): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+     1>c:\opencv\build\include\opencv2\core\cvstd.hpp(592): warning C4793: 'cv::String::String' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(381): warning C4793: 'cv::Mat::Mat' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\hal\defs.h(480): warning C4793: '`anonymous namespace'::cvRound' : function compiled as native :
+         	Inline native assembly not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(666): warning C4793: 'cv::Mat::release' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(1703): warning C4793: 'cv::SparseMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(3304): warning C4793: 'cv::UMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\cvstd.hpp(592): warning C4793: 'cv::String::String' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(381): warning C4793: 'cv::Mat::Mat' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\hal\defs.h(480): warning C4793: '`anonymous namespace'::cvRound' : function compiled as native :
+         	Inline native assembly not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(666): warning C4793: 'cv::Mat::release' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(1703): warning C4793: 'cv::SparseMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(3304): warning C4793: 'cv::UMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\cvstd.hpp(592): warning C4793: 'cv::String::String' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(381): warning C4793: 'cv::Mat::Mat' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\hal\defs.h(480): warning C4793: '`anonymous namespace'::cvRound' : function compiled as native :
+         	Inline native assembly not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(666): warning C4793: 'cv::Mat::release' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(1703): warning C4793: 'cv::SparseMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(3304): warning C4793: 'cv::UMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\cvstd.hpp(592): warning C4793: 'cv::String::String' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(381): warning C4793: 'cv::Mat::Mat' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\hal\defs.h(480): warning C4793: '`anonymous namespace'::cvRound' : function compiled as native :
+         	Inline native assembly not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(666): warning C4793: 'cv::Mat::release' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(1703): warning C4793: 'cv::SparseMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\mat.inl.hpp(3304): warning C4793: 'cv::UMat::addref' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+     1>c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef' : function compiled as native :
+         	Found an intrinsic not supported in managed code
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\formapp.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\formapp.Login.resources /ASSEMBLYRESOURCE:Debug\formapp.Register.resources /ASSEMBLYRESOURCE:Debug\formapp.Welcome.resources /ASSEMBLYRESOURCE:Debug\formapp.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\formapp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\formapp.lib" /MACHINE:X86 Debug\Login.obj
+         Debug\Register.obj
+         Debug\Welcome.obj
+         Debug\MyForm.obj
+     1>opencv_ts300d.lib(ts.obj) : warning LNK4099: PDB 'opencv_ts300d.pdb' was not found with 'opencv_ts300d.lib(ts.obj)' or at 'C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\opencv_ts300d.pdb'; linking object as if no debug info
+     1>opencv_ts300d.lib(ts_gtest.obj) : warning LNK4099: PDB 'opencv_ts300d.pdb' was not found with 'opencv_ts300d.lib(ts_gtest.obj)' or at 'C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\opencv_ts300d.pdb'; linking object as if no debug info
+     1>opencv_ts300d.lib(ts_perf.obj) : warning LNK4099: PDB 'opencv_ts300d.pdb' was not found with 'opencv_ts300d.lib(ts_perf.obj)' or at 'C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\opencv_ts300d.pdb'; linking object as if no debug info
+     1>opencv_ts300d.lib(opencv_ts_pch.obj) : warning LNK4099: PDB 'opencv_ts300d.pdb' was not found with 'opencv_ts300d.lib(opencv_ts_pch.obj)' or at 'C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\opencv_ts300d.pdb'; linking object as if no debug info
+         formapp.vcxproj -> C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\Debug\formapp.exe
+     1>Done Building Project "C:\Users\Chanawatn Pound\Documents\Visual Studio 2013\Projects\formapp.v5\projectv5\formapp\formapp\formapp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.97
